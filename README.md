@@ -1,0 +1,2 @@
+# vscodesync
+sync vscode configuration
